@@ -13,7 +13,7 @@
           </div>
         </div>
         <div class="avatar-img">
-          <img src="../assets/imgs/avatar-pdf.png" alt="" />
+          <img src="../assets/imgs/avatar-pdf.png" alt="你的照片" />
         </div>
       </div>
       <!-- 教育背景标题 -->
@@ -33,7 +33,7 @@
       <hr />
       <!-- 教育背景内容 -->
       <div class="school">
-        <span class="bold">桂林电子科技大学</span>
+        <span class="bold">你的大学</span>
         <span>2020年9月-2023年6月</span>
       </div>
       <div class="school">
@@ -41,7 +41,7 @@
         <span>桂林</span>
       </div>
       <div class="school">
-        <span class="bold">华北水利水电大学</span>
+        <span class="bold">你的大学</span>
         <span>2016年9月-2020年6月</span>
       </div>
       <div class="school">
